@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoderDemo</string>
+    <string name="hint_search">请输入需要查找的联系人</string>
+</resources>
